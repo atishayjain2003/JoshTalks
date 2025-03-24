@@ -13,7 +13,7 @@ So, this project has been completed as a task as given by JoshTalks. My basic in
    3. Install requirements.txt
    4. Follow the url patterns to test the API (python manage.py runserver is the command)
    5. The url screenshots also listed for help :
-      1. ![Creating User](image.png)
+      1. ![Creating User](PostmanScreenshots\image-1.png)
       2. ![Creating Task](image-1.png)
       3. ![Assigning Task to User](image-2.png)
       4. ![Retrieving Task of a User](image-3.png)
